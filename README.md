@@ -7,3 +7,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 1. Styling with sass (Scss) feels more organised as you can nest divs
 2. Using the float attribute
 3. Alot of tweaking to get it as close as possible to the design 
+
+
+View live demo here https://hanadsalim.github.io/FrontendMentor-Stats-preview-card-component 
